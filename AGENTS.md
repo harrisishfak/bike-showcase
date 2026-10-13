@@ -8,3 +8,7 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+## Application conventions
+- Keep the display-only bike collection at the index route with in-page category filtering and accessible detail dialogs; this provides browsing without implying a checkout service.
+- Import showcase photography from project assets and define visual roles in the global design system; this keeps the display self-contained and consistently themed.
